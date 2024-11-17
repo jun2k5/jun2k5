@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me 👋
 
 <!--
 **jun2k5/jun2k5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
