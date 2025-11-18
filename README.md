@@ -24,11 +24,11 @@
     <div align= "center"> <a href=https://velog.io/@jun2k5/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@jun2k5/posts"> </a>
          <a href=mailto:juny2k@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juny2k@gmail.com"> </a>
           </div>  <br> 
-    <div align= "center">  </div> 
+    <div align= "center">  </div>
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=jun2k5&bg_color=60,ffffff,9fcdf9&title_color=a197c8&text_color=a197c8"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun2k5&layout=compact&bg_color=60,ffffff,9fcdf9&title_color=a197c8&text_color=a197c8"
+         />  <br> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun2k5&layout=compact&bg_color=60,ffffff,9fcdf9&title_color=a197c8&text_color=a197c8"
            /> </div> 
     </div>
     
