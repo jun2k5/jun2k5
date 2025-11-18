@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm ByoungJun_Kim</h1>
-<h3 align="left">A passionate frontend developer from Korea</h3>
+<h3 align="left">A passionate backend developer from Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jun2k5&label=Profile%20views&color=0e75b6&style=flat" alt="jun2k5" /> </p>
 
