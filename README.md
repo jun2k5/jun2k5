@@ -87,7 +87,7 @@
 
 **Stack** FastAPI · Tortoise ORM · MySQL · GitHub Actions
 
-🔗 [GitHub Repository](https://github.com/jun2k5/OZConding_FastAPI_meetifyr) · 📖 [회고](https://velog.io/@jun2k5/ozcoding-fastapi-meetifyr-tdd-ci)
+🔗 [GitHub Repository](https://github.com/jun2k5/OZCoding_FastAPI_meetifyr) · 📖 [회고](https://velog.io/@jun2k5/ozcoding-fastapi-meetifyr-tdd-ci)
 
 <br/>
 
